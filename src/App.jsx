@@ -11,6 +11,7 @@ const App = () => {
     post: "Frontend Engineer",
     tag1: "Full Time",
     tag2: "Senior Level",
+    tag3: "hey devvil",
     pay: 110,
     location: "Bangalore, India",
   },
